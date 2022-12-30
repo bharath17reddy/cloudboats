@@ -2,3 +2,4 @@
 *.net
 !fifth.net
 !six.net
+[aeiou]*.txt
