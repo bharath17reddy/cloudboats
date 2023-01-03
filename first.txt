@@ -1,0 +1,1 @@
+this is first reporting from branch bug 1.0
